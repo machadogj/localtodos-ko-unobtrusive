@@ -1,0 +1,9 @@
+Localtodos-ko is a knockout version of the http://localtodos.com sample originally done in backbone.js by Jérôme Gravel-Niquet.
+
+The sample has been done using Test First TDD technique using qunit as a testing framework. This sample is intended to show knockout.js best practices.
+
+Localtodos-ko-unobtrusive is a version of the localtodos-ko which uses the new Knockout.js bindings convention API to declare all the databindings in javascript code rather than in markup.
+
+While I don't agree with the term "obtrusive", I decided to name the project like this because it's how most people refer to this.
+
+For a working you can browse to http://machadogj.com/demos/localtodo-unob/.
